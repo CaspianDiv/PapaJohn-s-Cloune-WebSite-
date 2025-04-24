@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Papa Johns</title>
+    <!-- Output Css Link -->
+    <link rel="stylesheet" href="output.css" />
+    <!-- FlowBite CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.css" rel="stylesheet" />
+    <!-- Favİcon -->
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+    <!-- Slider Styles -->
+    <link rel="stylesheet" href="slider_style.css" />
+    <!-- Swiper CDN -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+    <!-- Tailwind CSS CDN Library-->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!--Notify CDN  -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.css" />
+  </head>
+  <body class="bg-white">
+    <div class="flex justify-between items-center flex-wrap">
+      <div class="capitalize font-bold text-lg p-2 flex gap-6">
+        <p>restoranlar</p>
+        <p>papaBonus</p>
+      </div>
+      <div class="capitalize text-sm font-bold p-5 flex flex-wrap">
+        <div class="px-5">
+          <img src="img/flag_az.png" alt="Azərbaycan bayrağı" class="w-10" />
+        </div>
+        <p class="px-3">azərbaycanca</p>
+        <p>giriş/qeydiyyat</p>
+      </div>
+    </div>
+    <header class="overflow-hidden">
+      <nav class="bg-[#AD0F14] border-gray-200">
+        <div
+          class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"
+        >
+          <a
+            onclick="homePage()"
+
+            href="#"
+            class="flex items-center space-x-3 rtl:space-x-reverse"
+          >
+            <img
+              src="img/pj_logo_web_new.png"
+              class="h-8"
+              alt="PapaJohn's   Logo"
+            />
+          </a>
+          <button
+            data-collapse-toggle="navbar-default"
+            type="button"
+            class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm t rounded-lg md:hidden text-white"
+            aria-controls="navbar-default"
+            aria-expanded="false"
+          >
+            <span class="sr-only">Open main menu</span>
+            <svg
+              class="w-5 h-5"
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 17 14"
+            >
+              <path
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M1 1h15M1 7h15M1 13h15"
+              />
+            </svg>
+          </button>
+          <div class="hidden w-full md:block md:w-auto" id="navbar-default">
+            <ul
+              id="categList"
+              class="font-medium flex flex-col p-4 md:p-0 mt-4 border rounded-lg md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0"
+            ></ul>
+          </div>
+        </div>
+      </nav>
+      <div
+        class="bg-[#f1f1f1] p-5 container mx-auto mt-5 flex justify-center items-center gap-16 flex-wrap"
+      >
+        <div class="font-bold text-lg capitalize">
+          <p>promo kodunuz var ?</p>
+        </div>
+        <div class="text-[#0F9675] capitalize font-bold text-xl">
+          <p>endirimdən istifadə edin!</p>
+        </div>
+        <div>
+          <input
+            type="text"
+            class="border-[2px] border-[#0F9675] rounded py-1 px-5 mx-2"
+            placeholder=" Promo kodu daxil edin"
+          />
+          <button
+            class="uppercase border-[#333] border-[2px] px-4 py-2 rounded bg-[#0F9675] text-white font-bold"
+          >
+            ok
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section id="headSec">
+        <!-- Swiper -->
+        <div class="container flex justify-center items-center mx-auto">
+          <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img src="img/slider1.png" />
+              </div>
+              <div class="swiper-slide">
+                <img src="img/slider2.png" />
+              </div>
+              <div class="swiper-slide">
+                <img src=".//img/slider3.png" />
+              </div>
+              <div class="swiper-slide">
+                <img src=".//img/slider4.png" />
+              </div>
+              <div class="swiper-slide">
+                <img src=".//img/slider5.png" />
+              </div>
+              <div class="swiper-slide">
+                <img src=".//img/slider6.jpg" />
+              </div>
+              <div class="swiper-slide">
+                <img src=".//img/slider7.png" />
+              </div>
+              <div class="swiper-slide">
+                <img src=".//img/slider8.jpg" />
+              </div>
+            </div>
+            <div class="swiper-pagination"></div>
+          </div>
+        </div>
+        <!-- Swiper JS -->
+
+      </section>
+      <div id="inputs" class="bg-red-900 rounded p-5 gap-5 w-[50%] mx-auto  flex flex-col justify-center  mt-10">
+        <h1 class="text-center text-white text-2xl capitalize font-bold">create pizza</h1>
+        <input type="text" class="bg-white rounded py-2 px-2" placeholder="    img" />
+        <input type="text" class="bg-white rounded py-2" placeholder="    title" />
+        <input type="text" class="bg-white rounded py-2" placeholder="    composition" />
+        <input type="number"  class="bg-white rounded py-2" placeholder="   Price"/>
+        <button onclick="handlePost()" class="bg-red-600 py-2 rounded capitalize text-white text-lg font-bold">post pizza</button>
+        <button onclick="handleEdit()" class="bg-[#992837] py-2 rounded capitalize text-white text-lg font-bold">edit pizza</button>
+    </div>
+      <div id="cards" class="flex flex-wrap justify-center items-center gap-5 py-5"></div>
+    </main>
+    <footer>
+      <div class="bg-[#AD0F14] p-10 flex justify-between">
+        <div class="flex flex-wrap">
+          <p class="text-white">&copy; PJA 2024</p>
+        </div>
+        <div class="text-white capitalize flex gap-10 flex-wrap">
+          <p>haqqımızda</p>
+          <p>sual və cavab</p>
+          <p>karyera</p>
+          <p>xəmir</p>
+          <p>papa talk</p>
+          <p>şərtlər və qaydalar</p>
+        </div>
+      </div>
+    </footer>
+    <!-- Main JS -->
+    <script src="JS/script.js" type="module"></script>
+    <!-- FlowBite JS CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.js"></script>
+    <!-- Swiper JS CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <!-- Swiper JS App JS Script -->
+    <script src="/JS/app.js" type="module"></script>
+    <!-- Notify Alert Script -->
+    <script src="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.js"></script>
+    <!-- Sweet Alert CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  </body>
+</html>

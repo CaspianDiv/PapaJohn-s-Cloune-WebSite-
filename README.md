@@ -94,11 +94,11 @@ Suallarınız var? Mənə aşağıdakı əlaqə vasitələri ilə yaza bilərsin
 
 ⭐️ Əgər bu layihə sizə faydalı oldusa, ulduz vurmağı unutmayın! ⭐️
 
-## English Version
+## English Language Version
 
 # Papa John's Clone Website
 
-![Papa John's Logo]([https://www.papajohns.az/static/media/logo2.e4320981.svg](https://papa-john-s-cloune-web-site.vercel.app/img/pj_logo_web_new.png))
+![Papa John's Logo](https://papa-john-s-cloune-web-site.vercel.app/img/pj_logo_web_new.png)
 
 ## About the Project
 
@@ -157,13 +157,13 @@ http://localhost:3000
 
 ## 📷 Screenshots
 
-![Homepage](https://papa-john-s-cloune-web-site.vercel.app/index.htm)
+![Home] Page](https://media.licdn.com/dms/image/v2/D4D2DAQGinCmzwZLK-Q/profile-treasury-image-shrink_1920_1920/B4DZaCq1wsGgAg-/0/1745948993571?e=1746558000&v=beta&t=exT_hz2XxsmV-0R8SE-KzlFnLKZR0T3QLBE99Yk-31Q)
 ![Pizza Menu](https://papa-john-s-cloune-web-site.vercel.app/index.htm#)
 ![Cart](no cart)
 
 ## 🌐 Live Demo
 
-Live version of the site [here](https://papa-john-s-cloune-web-site.vercel.app/index.htm#) you can visit.
+You can visit the live version of the site [here](https://papa-john-s-cloune-web-site.vercel.app/index.htm#).
 
 ## 🔄 Future Developments
 
@@ -185,9 +185,9 @@ This project is licensed under the [MIT license](LICENSE).
 
 Have questions? You can contact me using the following contact methods:
 - Email: sahinjafarov996@gmail.com
-- LinkedIn: CaspianDiv(Shahin Jafarzadeh)(https://www.linkedin.com/in/shahin-jafarzadeh/)
-- GitHub: CaspianDiv (https://github.com/CaspianDiv)
+- LinkedIn: ([https://linkedin.com/CaspianDiv](https://www.linkedin.com/in/shahin-jafarzadeh-3a3772331/))
+- GitHub: CaspianDiv ([https://github.com/CaspianDiv](https://github.com/CaspianDiv))
 
 ---
 
-⭐️ If this project was useful to you, don't forget to star it! ⭐️
+⭐️ If you found this project useful, don't forget to star it! ⭐️

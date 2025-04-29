@@ -1,6 +1,6 @@
 # Papa John's Klon Veb Saytı
 
-![Papa John's Logo]([https://www.papajohns.az/static/media/logo2.e4320981.svg](https://papa-john-s-cloune-web-site.vercel.app/img/pj_logo_web_new.png))
+![Papa John's Logo](https://papa-john-s-cloune-web-site.vercel.app/img/pj_logo_web_new.png)
 
 ## Layihə Haqqında
 

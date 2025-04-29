@@ -157,7 +157,7 @@ http://localhost:3000
 
 ## 📷 Screenshots
 
-![Home] Page](https://media.licdn.com/dms/image/v2/D4D2DAQGinCmzwZLK-Q/profile-treasury-image-shrink_1920_1920/B4DZaCq1wsGgAg-/0/1745948993571?e=1746558000&v=beta&t=exT_hz2XxsmV-0R8SE-KzlFnLKZR0T3QLBE99Yk-31Q)
+![Home Page](https://media.licdn.com/dms/image/v2/D4D2DAQGinCmzwZLK-Q/profile-treasury-image-shrink_1920_1920/B4DZaCq1wsGgAg-/0/1745948993571?e=1746558000&v=beta&t=exT_hz2XxsmV-0R8SE-KzlFnLKZR0T3QLBE99Yk-31Q)
 ![Pizza Menu](https://papa-john-s-cloune-web-site.vercel.app/index.htm#)
 ![Cart](no cart)
 

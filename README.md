@@ -1,6 +1,6 @@
 # Papa John's Klon Veb Saytı
 
-![Papa John's Logo](https://www.papajohns.az/static/media/logo2.e4320981.svg)
+![Papa John's Logo]([https://www.papajohns.az/static/media/logo2.e4320981.svg](https://papa-john-s-cloune-web-site.vercel.app/img/pj_logo_web_new.png))
 
 ## Layihə Haqqında
 
@@ -59,13 +59,13 @@ http://localhost:3000
 
 ## 📷 Ekran Görüntüləri
 
-![Ana Səhifə](https://example.com/screenshot1.png)
-![Pizza Menyusu](https://example.com/screenshot2.png)
-![Səbət](https://example.com/screenshot3.png)
+![Ana Səhifə](https://papa-john-s-cloune-web-site.vercel.app/index.htm)
+![Pizza Menyusu](https://papa-john-s-cloune-web-site.vercel.app/index.htm#)
+![Səbət](səbət yoxdur)
 
 ## 🌐 Canlı Demo
 
-Saytın canlı versiyasını [buradan](https://papa-john-s-cloune-web-site.vercel.app) ziyarət edə bilərsiniz.
+Saytın canlı versiyasını [buradan](https://papa-john-s-cloune-web-site.vercel.app/index.htm#) ziyarət edə bilərsiniz.
 
 ## 🔄 Gələcək İnkişaflar
 
@@ -86,20 +86,19 @@ Bu layihə [MIT lisenziyası](LICENSE) altında lisenziyalaşdırılıb.
 ## 📞 Əlaqə
 
 Suallarınız var? Mənə aşağıdakı əlaqə vasitələri ilə yaza bilərsiniz:
-- Email: sizin-email@example.com
-- LinkedIn: [Sizin Ad](https://www.linkedin.com/in/sizin-ad/)
-- GitHub: [@sizin-github-istifadeci-adi](https://github.com/sizin-github-username)
+- Email: sahinjafarov996@gmail.com
+- LinkedIn: CaspianDiv(Shahin Jafarzadeh)(https://www.linkedin.com/in/shahin-jafarzadeh/)
+- GitHub: CaspianDiv (https://github.com/CaspianDiv)
 
 ---
 
 ⭐️ Əgər bu layihə sizə faydalı oldusa, ulduz vurmağı unutmayın! ⭐️
 
-
-## English Language Version
+## English Version
 
 # Papa John's Clone Website
 
-![Papa John's Logo](https://www.papajohns.az/static/media/logo2.e4320981.svg)
+![Papa John's Logo]([https://www.papajohns.az/static/media/logo2.e4320981.svg](https://papa-john-s-cloune-web-site.vercel.app/img/pj_logo_web_new.png))
 
 ## About the Project
 
@@ -158,13 +157,13 @@ http://localhost:3000
 
 ## 📷 Screenshots
 
-![Homepage](https://example.com/screenshot1.png)
-![Pizza Menu](https://example.com/screenshot2.png)
-![Cart](https://example.com/screenshot3.png)
+![Homepage](https://papa-john-s-cloune-web-site.vercel.app/index.htm)
+![Pizza Menu](https://papa-john-s-cloune-web-site.vercel.app/index.htm#)
+![Cart](no cart)
 
 ## 🌐 Live Demo
 
-You can visit the live version of the site [here](https://papa-john-s-cloune-web-site.vercel.app).
+Live version of the site [here](https://papa-john-s-cloune-web-site.vercel.app/index.htm#) you can visit.
 
 ## 🔄 Future Developments
 
@@ -176,7 +175,7 @@ You can visit the live version of the site [here](https://papa-john-s-cloune-web
 
 ## 🤝 Contribution
 
-Contributions are always welcome! To report any problems or suggest improvements, open a new issue or submit a pull request.
+Contributions are always welcome! To report any issues or suggest improvements, open a new issue or submit a pull request.
 
 ## 📝 License
 
@@ -184,11 +183,11 @@ This project is licensed under the [MIT license](LICENSE).
 
 ## 📞 Contact
 
-Do you have any questions? You can write to me using the following contact methods:
-- Email: sizin-email@example.com
-- LinkedIn: [Your Name](https://www.linkedin.com/in/sizin-ad/)
-- GitHub: [@sizin-github-istifadeci-adi](https://github.com/sizin-github-username)
+Have questions? You can contact me using the following contact methods:
+- Email: sahinjafarov996@gmail.com
+- LinkedIn: CaspianDiv(Shahin Jafarzadeh)(https://www.linkedin.com/in/shahin-jafarzadeh/)
+- GitHub: CaspianDiv (https://github.com/CaspianDiv)
 
 ---
 
-⭐️ If you found this project useful, don't forget to star it! ⭐️
+⭐️ If this project was useful to you, don't forget to star it! ⭐️

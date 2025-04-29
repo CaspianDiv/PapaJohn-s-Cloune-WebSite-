@@ -59,7 +59,7 @@ http://localhost:3000
 
 ## 📷 Ekran Görüntüləri
 
-![Ana Səhifə](https://papa-john-s-cloune-web-site.vercel.app/index.htm)
+![Ana Səhifə](https://media.licdn.com/dms/image/v2/D4D2DAQGinCmzwZLK-Q/profile-treasury-image-shrink_1920_1920/B4DZaCq1wsGgAg-/0/1745948993571?e=1746558000&v=beta&t=exT_hz2XxsmV-0R8SE-KzlFnLKZR0T3QLBE99Yk-31Q)
 ![Pizza Menyusu](https://papa-john-s-cloune-web-site.vercel.app/index.htm#)
 ![Səbət](səbət yoxdur)
 
@@ -87,8 +87,8 @@ Bu layihə [MIT lisenziyası](LICENSE) altında lisenziyalaşdırılıb.
 
 Suallarınız var? Mənə aşağıdakı əlaqə vasitələri ilə yaza bilərsiniz:
 - Email: sahinjafarov996@gmail.com
-- LinkedIn: CaspianDiv(Shahin Jafarzadeh)(https://www.linkedin.com/in/shahin-jafarzadeh/)
-- GitHub: CaspianDiv (https://github.com/CaspianDiv)
+- LinkedIn: ([https://linkedin.com/CaspianDiv](https://www.linkedin.com/in/shahin-jafarzadeh-3a3772331/))
+- GitHub: CaspianDiv ([https://github.com/CaspianDiv](https://github.com/CaspianDiv))
 
 ---
 

@@ -57,10 +57,6 @@ yarn dev
 http://localhost:3000
 ```
 
-## 📷 Ekran Görüntüləri
-
-[Ana Səhifə](https://github.com/user-attachments/assets/2ebab6ac-798a-45b0-a76e-4b0268e2aeb7)
-
 ## 🌐 Canlı Demo
 
 Saytın canlı versiyasını [buradan](https://papa-john-s-cloune-web-site.vercel.app/index.htm#) ziyarət edə bilərsiniz.

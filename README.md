@@ -59,21 +59,12 @@ http://localhost:3000
 
 ## 📷 Ekran Görüntüləri
 
-![Ana Səhifə](https://media.licdn.com/dms/image/v2/D4D2DAQGinCmzwZLK-Q/profile-treasury-image-shrink_1920_1920/B4DZaCq1wsGgAg-/0/1745948993571?e=1746558000&v=beta&t=exT_hz2XxsmV-0R8SE-KzlFnLKZR0T3QLBE99Yk-31Q)
-![Pizza Menyusu](https://papa-john-s-cloune-web-site.vercel.app/index.htm#)
-![Səbət](səbət yoxdur)
+[Ana Səhifə](![image](https://github.com/user-attachments/assets/2ebab6ac-798a-45b0-a76e-4b0268e2aeb7))
 
 ## 🌐 Canlı Demo
 
 Saytın canlı versiyasını [buradan](https://papa-john-s-cloune-web-site.vercel.app/index.htm#) ziyarət edə bilərsiniz.
 
-## 🔄 Gələcək İnkişaflar
-
-- Daha çox ödəniş metodları
-- Sifariş izləmə sistemi
-- Daha təkmil səbət funksiyaları
-- Admin paneli
-- Real-time sifariş bildirişləri
 
 ## 🤝 Töhfə
 

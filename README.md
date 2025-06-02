@@ -59,7 +59,7 @@ http://localhost:3000
 
 ## 📷 Ekran Görüntüləri
 
-[Ana Səhifə](![image](https://github.com/user-attachments/assets/2ebab6ac-798a-45b0-a76e-4b0268e2aeb7))
+[Ana Səhifə](https://github.com/user-attachments/assets/2ebab6ac-798a-45b0-a76e-4b0268e2aeb7)
 
 ## 🌐 Canlı Demo
 
